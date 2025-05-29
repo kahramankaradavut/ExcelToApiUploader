@@ -49,26 +49,26 @@ namespace ExcelToApiUploader
         public static List<Dictionary<string, string>> ReadExcelFile(string path, Dictionary<string, string> columnMapping)
         {
             var result = new List<Dictionary<string, string>>();
-        
+
             using var workbook = new XLWorkbook(path);
-        
+
             foreach (var worksheet in workbook.Worksheets)
             {
                 var range = worksheet.RangeUsed();
                 if (range == null) continue;
-        
+
                 var rows = range.RowsUsed();
                 var headers = new List<string>();
-        
+
                 foreach (var cell in rows.First().Cells())
                 {
                     headers.Add(cell.GetString());
                 }
-        
+
                 foreach (var row in rows.Skip(1))
                 {
                     var rowData = new Dictionary<string, string>();
-        
+
                     for (int i = 0; i < headers.Count; i++)
                     {
                         string excelHeader = headers[i];
@@ -79,7 +79,7 @@ namespace ExcelToApiUploader
                             rowData[apiField] = cellValue;
                         }
                     }
-        
+
                     // Eğer rowData boş değilse (eşleşen sütun varsa) listeye ekle
                     if (rowData.Count > 0)
                     {
@@ -87,7 +87,7 @@ namespace ExcelToApiUploader
                     }
                 }
             }
-        
+
             return result;
         }
 
