@@ -1,0 +1,2124 @@
+{
+  "ProductCode": "95000256",
+  "FirmID": "13",
+  "Name": "ASPİRATÖR USTO 4962 İNOX 60 CM SÜRGÜLÜ",
+  "ShortCode": "B01",
+  "ProductTypeName": "ASPIRATOR",
+  "ProductModelName": "ASPİRATÖR USTO 4962 İNOX 60 CM SÜRGÜLÜ",
+  "SpartsProducts": [
+    {
+      "ManufactureCode": "10",
+      "ProductTypeName": "CHIMNEY NRV OUTLET 120 MM",
+      "ProductCode": "85000016",
+      "ShortCode": "10",
+      "Name": "CHIMNEY NRV OUTLET 120 MM"
+    },
+    {
+      "ManufactureCode": "20",
+      "ProductTypeName": "CYRISTAL LAMP GLASS",
+      "ProductCode": "85000017",
+      "ShortCode": "20",
+      "Name": "CYRISTAL LAMP GLASS"
+    },
+    {
+      "ManufactureCode": "30",
+      "ProductTypeName": "ENGINE AND PROPELLER ASSEMBLY WITH 20 MM SQUARE MOTOR AND 32 CM CABLE",
+      "ProductCode": "85000018",
+      "ShortCode": "30",
+      "Name": "ENGINE AND PROPELLER ASSEMBLY WITH 20 MM SQUARE MOTOR AND 32 CM CABLE"
+    },
+    {
+      "ManufactureCode": "40",
+      "ProductTypeName": "8052 60 BUTTON GROUP BLACK",
+      "ProductCode": "85000019",
+      "ShortCode": "40",
+      "Name": "8052 60 BUTTON GROUP BLACK"
+    },
+    {
+      "ManufactureCode": "50",
+      "ProductTypeName": "SWITCH-BOX WITH CABLE 49 CM",
+      "ProductCode": "85000020",
+      "ShortCode": "50",
+      "Name": "SWITCH-BOX WITH CABLE 49 CM"
+    },
+    {
+      "ManufactureCode": "60",
+      "ProductTypeName": "8052 60 FRONT PANEL WHITE",
+      "ProductCode": "85000021",
+      "ShortCode": "60",
+      "Name": "8052 60 FRONT PANEL WHITE"
+    },
+    {
+      "ManufactureCode": "70",
+      "ProductTypeName": "8052 60 TECNA BOX 64CMx21CMx35.5CM ",
+      "ProductCode": "85000022",
+      "ShortCode": "70",
+      "Name": "8052 60 TECNA BOX 64CMx21CMx35.5CM "
+    },
+    {
+      "ManufactureCode": "80",
+      "ProductTypeName": "CABLE CLAMP",
+      "ProductCode": "85000023",
+      "ShortCode": "80",
+      "Name": "CABLE CLAMP"
+    },
+    {
+      "ManufactureCode": "90",
+      "ProductTypeName": "DOUBLE CASE JUNCTION COVER",
+      "ProductCode": "85000024",
+      "ShortCode": "90",
+      "Name": "DOUBLE CASE JUNCTION COVER"
+    },
+    {
+      "ManufactureCode": "100",
+      "ProductTypeName": "SINGLE LAMP HOLDER WITH CABLE  27CM",
+      "ProductCode": "85000025",
+      "ShortCode": "100",
+      "Name": "SINGLE LAMP HOLDER WITH CABLE  27CM"
+    },
+    {
+      "ManufactureCode": "110",
+      "ProductTypeName": "2x0,75 PLUG CABLE",
+      "ProductCode": "85000026",
+      "ShortCode": "110",
+      "Name": "2x0,75 PLUG CABLE"
+    },
+    {
+      "ManufactureCode": "120",
+      "ProductTypeName": "TERMINAL BLOCK (7)",
+      "ProductCode": "85000027",
+      "ShortCode": "120",
+      "Name": "TERMINAL BLOCK (7)"
+    },
+    {
+      "ManufactureCode": "130",
+      "ProductTypeName": "4 W LED LAMP",
+      "ProductCode": "85000028",
+      "ShortCode": "130",
+      "Name": "4 W LED LAMP"
+    },
+    {
+      "ManufactureCode": "140",
+      "ProductTypeName": "SHORT RAIL 17MMx180MM",
+      "ProductCode": "85000029",
+      "ShortCode": "140",
+      "Name": "SHORT RAIL 17MMx180MM"
+    },
+    {
+      "ManufactureCode": "150",
+      "ProductTypeName": "8052 60 YENİ 148.5x483x8MMxRF FILTER",
+      "ProductCode": "85000030",
+      "ShortCode": "150",
+      "Name": "8052 60 YENİ 148.5x483x8MMxRF FILTER"
+    },
+    {
+      "ManufactureCode": "160",
+      "ProductTypeName": "8052 60 188.5MMx483.0MMxRF FILTER ",
+      "ProductCode": "85000031",
+      "ShortCode": "160",
+      "Name": "8052 60 188.5MMx483.0MMxRF FILTER "
+    }
+  ],
+  "ProductSerials": [
+    {
+      "CustomFollowCode": "82349620001",
+      "Name": "82349620001"
+    },
+    {
+      "CustomFollowCode": "82349620002",
+      "Name": "82349620002"
+    },
+    {
+      "CustomFollowCode": "82349620003",
+      "Name": "82349620003"
+    },
+    {
+      "CustomFollowCode": "82349620004",
+      "Name": "82349620004"
+    },
+    {
+      "CustomFollowCode": "82349620005",
+      "Name": "82349620005"
+    },
+    {
+      "CustomFollowCode": "82349620006",
+      "Name": "82349620006"
+    },
+    {
+      "CustomFollowCode": "82349620007",
+      "Name": "82349620007"
+    },
+    {
+      "CustomFollowCode": "82349620008",
+      "Name": "82349620008"
+    },
+    {
+      "CustomFollowCode": "82349620009",
+      "Name": "82349620009"
+    },
+    {
+      "CustomFollowCode": "82349620010",
+      "Name": "82349620010"
+    },
+    {
+      "CustomFollowCode": "82349620011",
+      "Name": "82349620011"
+    },
+    {
+      "CustomFollowCode": "82349620012",
+      "Name": "82349620012"
+    },
+    {
+      "CustomFollowCode": "82349620013",
+      "Name": "82349620013"
+    },
+    {
+      "CustomFollowCode": "82349620014",
+      "Name": "82349620014"
+    },
+    {
+      "CustomFollowCode": "82349620015",
+      "Name": "82349620015"
+    },
+    {
+      "CustomFollowCode": "82349620016",
+      "Name": "82349620016"
+    },
+    {
+      "CustomFollowCode": "82349620017",
+      "Name": "82349620017"
+    },
+    {
+      "CustomFollowCode": "82349620018",
+      "Name": "82349620018"
+    },
+    {
+      "CustomFollowCode": "82349620019",
+      "Name": "82349620019"
+    },
+    {
+      "CustomFollowCode": "82349620020",
+      "Name": "82349620020"
+    },
+    {
+      "CustomFollowCode": "82349620021",
+      "Name": "82349620021"
+    },
+    {
+      "CustomFollowCode": "82349620022",
+      "Name": "82349620022"
+    },
+    {
+      "CustomFollowCode": "82349620023",
+      "Name": "82349620023"
+    },
+    {
+      "CustomFollowCode": "82349620024",
+      "Name": "82349620024"
+    },
+    {
+      "CustomFollowCode": "82349620025",
+      "Name": "82349620025"
+    },
+    {
+      "CustomFollowCode": "82349620026",
+      "Name": "82349620026"
+    },
+    {
+      "CustomFollowCode": "82349620027",
+      "Name": "82349620027"
+    },
+    {
+      "CustomFollowCode": "82349620028",
+      "Name": "82349620028"
+    },
+    {
+      "CustomFollowCode": "82349620029",
+      "Name": "82349620029"
+    },
+    {
+      "CustomFollowCode": "82349620030",
+      "Name": "82349620030"
+    },
+    {
+      "CustomFollowCode": "82349620031",
+      "Name": "82349620031"
+    },
+    {
+      "CustomFollowCode": "82349620032",
+      "Name": "82349620032"
+    },
+    {
+      "CustomFollowCode": "82349620033",
+      "Name": "82349620033"
+    },
+    {
+      "CustomFollowCode": "82349620034",
+      "Name": "82349620034"
+    },
+    {
+      "CustomFollowCode": "82349620035",
+      "Name": "82349620035"
+    },
+    {
+      "CustomFollowCode": "82349620036",
+      "Name": "82349620036"
+    },
+    {
+      "CustomFollowCode": "82349620037",
+      "Name": "82349620037"
+    },
+    {
+      "CustomFollowCode": "82349620038",
+      "Name": "82349620038"
+    },
+    {
+      "CustomFollowCode": "82349620039",
+      "Name": "82349620039"
+    },
+    {
+      "CustomFollowCode": "82349620040",
+      "Name": "82349620040"
+    },
+    {
+      "CustomFollowCode": "82349620041",
+      "Name": "82349620041"
+    },
+    {
+      "CustomFollowCode": "82349620042",
+      "Name": "82349620042"
+    },
+    {
+      "CustomFollowCode": "82349620043",
+      "Name": "82349620043"
+    },
+    {
+      "CustomFollowCode": "82349620044",
+      "Name": "82349620044"
+    },
+    {
+      "CustomFollowCode": "82349620045",
+      "Name": "82349620045"
+    },
+    {
+      "CustomFollowCode": "82349620046",
+      "Name": "82349620046"
+    },
+    {
+      "CustomFollowCode": "82349620047",
+      "Name": "82349620047"
+    },
+    {
+      "CustomFollowCode": "82349620048",
+      "Name": "82349620048"
+    },
+    {
+      "CustomFollowCode": "82349620049",
+      "Name": "82349620049"
+    },
+    {
+      "CustomFollowCode": "82349620050",
+      "Name": "82349620050"
+    },
+    {
+      "CustomFollowCode": "82349620051",
+      "Name": "82349620051"
+    },
+    {
+      "CustomFollowCode": "82349620052",
+      "Name": "82349620052"
+    },
+    {
+      "CustomFollowCode": "82349620053",
+      "Name": "82349620053"
+    },
+    {
+      "CustomFollowCode": "82349620054",
+      "Name": "82349620054"
+    },
+    {
+      "CustomFollowCode": "82349620055",
+      "Name": "82349620055"
+    },
+    {
+      "CustomFollowCode": "82349620056",
+      "Name": "82349620056"
+    },
+    {
+      "CustomFollowCode": "82349620057",
+      "Name": "82349620057"
+    },
+    {
+      "CustomFollowCode": "82349620058",
+      "Name": "82349620058"
+    },
+    {
+      "CustomFollowCode": "82349620059",
+      "Name": "82349620059"
+    },
+    {
+      "CustomFollowCode": "82349620060",
+      "Name": "82349620060"
+    },
+    {
+      "CustomFollowCode": "82349620061",
+      "Name": "82349620061"
+    },
+    {
+      "CustomFollowCode": "82349620062",
+      "Name": "82349620062"
+    },
+    {
+      "CustomFollowCode": "82349620063",
+      "Name": "82349620063"
+    },
+    {
+      "CustomFollowCode": "82349620064",
+      "Name": "82349620064"
+    },
+    {
+      "CustomFollowCode": "82349620065",
+      "Name": "82349620065"
+    },
+    {
+      "CustomFollowCode": "82349620066",
+      "Name": "82349620066"
+    },
+    {
+      "CustomFollowCode": "82349620067",
+      "Name": "82349620067"
+    },
+    {
+      "CustomFollowCode": "82349620068",
+      "Name": "82349620068"
+    },
+    {
+      "CustomFollowCode": "82349620069",
+      "Name": "82349620069"
+    },
+    {
+      "CustomFollowCode": "82349620070",
+      "Name": "82349620070"
+    },
+    {
+      "CustomFollowCode": "82349620071",
+      "Name": "82349620071"
+    },
+    {
+      "CustomFollowCode": "82349620072",
+      "Name": "82349620072"
+    },
+    {
+      "CustomFollowCode": "82349620073",
+      "Name": "82349620073"
+    },
+    {
+      "CustomFollowCode": "82349620074",
+      "Name": "82349620074"
+    },
+    {
+      "CustomFollowCode": "82349620075",
+      "Name": "82349620075"
+    },
+    {
+      "CustomFollowCode": "82349620076",
+      "Name": "82349620076"
+    },
+    {
+      "CustomFollowCode": "82349620077",
+      "Name": "82349620077"
+    },
+    {
+      "CustomFollowCode": "82349620078",
+      "Name": "82349620078"
+    },
+    {
+      "CustomFollowCode": "82349620079",
+      "Name": "82349620079"
+    },
+    {
+      "CustomFollowCode": "82349620080",
+      "Name": "82349620080"
+    },
+    {
+      "CustomFollowCode": "82349620081",
+      "Name": "82349620081"
+    },
+    {
+      "CustomFollowCode": "82349620082",
+      "Name": "82349620082"
+    },
+    {
+      "CustomFollowCode": "82349620083",
+      "Name": "82349620083"
+    },
+    {
+      "CustomFollowCode": "82349620084",
+      "Name": "82349620084"
+    },
+    {
+      "CustomFollowCode": "82349620085",
+      "Name": "82349620085"
+    },
+    {
+      "CustomFollowCode": "82349620086",
+      "Name": "82349620086"
+    },
+    {
+      "CustomFollowCode": "82349620087",
+      "Name": "82349620087"
+    },
+    {
+      "CustomFollowCode": "82349620088",
+      "Name": "82349620088"
+    },
+    {
+      "CustomFollowCode": "82349620089",
+      "Name": "82349620089"
+    },
+    {
+      "CustomFollowCode": "82349620090",
+      "Name": "82349620090"
+    },
+    {
+      "CustomFollowCode": "82349620091",
+      "Name": "82349620091"
+    },
+    {
+      "CustomFollowCode": "82349620092",
+      "Name": "82349620092"
+    },
+    {
+      "CustomFollowCode": "82349620093",
+      "Name": "82349620093"
+    },
+    {
+      "CustomFollowCode": "82349620094",
+      "Name": "82349620094"
+    },
+    {
+      "CustomFollowCode": "82349620095",
+      "Name": "82349620095"
+    },
+    {
+      "CustomFollowCode": "82349620096",
+      "Name": "82349620096"
+    },
+    {
+      "CustomFollowCode": "82349620097",
+      "Name": "82349620097"
+    },
+    {
+      "CustomFollowCode": "82349620098",
+      "Name": "82349620098"
+    },
+    {
+      "CustomFollowCode": "82349620099",
+      "Name": "82349620099"
+    },
+    {
+      "CustomFollowCode": "82349620100",
+      "Name": "82349620100"
+    },
+    {
+      "CustomFollowCode": "82349620101",
+      "Name": "82349620101"
+    },
+    {
+      "CustomFollowCode": "82349620102",
+      "Name": "82349620102"
+    },
+    {
+      "CustomFollowCode": "82349620103",
+      "Name": "82349620103"
+    },
+    {
+      "CustomFollowCode": "82349620104",
+      "Name": "82349620104"
+    },
+    {
+      "CustomFollowCode": "82349620105",
+      "Name": "82349620105"
+    },
+    {
+      "CustomFollowCode": "82349620106",
+      "Name": "82349620106"
+    },
+    {
+      "CustomFollowCode": "82349620107",
+      "Name": "82349620107"
+    },
+    {
+      "CustomFollowCode": "82349620108",
+      "Name": "82349620108"
+    },
+    {
+      "CustomFollowCode": "82349620109",
+      "Name": "82349620109"
+    },
+    {
+      "CustomFollowCode": "82349620110",
+      "Name": "82349620110"
+    },
+    {
+      "CustomFollowCode": "82349620111",
+      "Name": "82349620111"
+    },
+    {
+      "CustomFollowCode": "82349620112",
+      "Name": "82349620112"
+    },
+    {
+      "CustomFollowCode": "82349620113",
+      "Name": "82349620113"
+    },
+    {
+      "CustomFollowCode": "82349620114",
+      "Name": "82349620114"
+    },
+    {
+      "CustomFollowCode": "82349620115",
+      "Name": "82349620115"
+    },
+    {
+      "CustomFollowCode": "82349620116",
+      "Name": "82349620116"
+    },
+    {
+      "CustomFollowCode": "82349620117",
+      "Name": "82349620117"
+    },
+    {
+      "CustomFollowCode": "82349620118",
+      "Name": "82349620118"
+    },
+    {
+      "CustomFollowCode": "82349620119",
+      "Name": "82349620119"
+    },
+    {
+      "CustomFollowCode": "82349620120",
+      "Name": "82349620120"
+    },
+    {
+      "CustomFollowCode": "82349620121",
+      "Name": "82349620121"
+    },
+    {
+      "CustomFollowCode": "82349620122",
+      "Name": "82349620122"
+    },
+    {
+      "CustomFollowCode": "82349620123",
+      "Name": "82349620123"
+    },
+    {
+      "CustomFollowCode": "82349620124",
+      "Name": "82349620124"
+    },
+    {
+      "CustomFollowCode": "82349620125",
+      "Name": "82349620125"
+    },
+    {
+      "CustomFollowCode": "82349620126",
+      "Name": "82349620126"
+    },
+    {
+      "CustomFollowCode": "82349620127",
+      "Name": "82349620127"
+    },
+    {
+      "CustomFollowCode": "82349620128",
+      "Name": "82349620128"
+    },
+    {
+      "CustomFollowCode": "82349620129",
+      "Name": "82349620129"
+    },
+    {
+      "CustomFollowCode": "82349620130",
+      "Name": "82349620130"
+    },
+    {
+      "CustomFollowCode": "82349620131",
+      "Name": "82349620131"
+    },
+    {
+      "CustomFollowCode": "82349620132",
+      "Name": "82349620132"
+    },
+    {
+      "CustomFollowCode": "82349620133",
+      "Name": "82349620133"
+    },
+    {
+      "CustomFollowCode": "82349620134",
+      "Name": "82349620134"
+    },
+    {
+      "CustomFollowCode": "82349620135",
+      "Name": "82349620135"
+    },
+    {
+      "CustomFollowCode": "82349620136",
+      "Name": "82349620136"
+    },
+    {
+      "CustomFollowCode": "82349620137",
+      "Name": "82349620137"
+    },
+    {
+      "CustomFollowCode": "82349620138",
+      "Name": "82349620138"
+    },
+    {
+      "CustomFollowCode": "82349620139",
+      "Name": "82349620139"
+    },
+    {
+      "CustomFollowCode": "82349620140",
+      "Name": "82349620140"
+    },
+    {
+      "CustomFollowCode": "82349620141",
+      "Name": "82349620141"
+    },
+    {
+      "CustomFollowCode": "82349620142",
+      "Name": "82349620142"
+    },
+    {
+      "CustomFollowCode": "82349620143",
+      "Name": "82349620143"
+    },
+    {
+      "CustomFollowCode": "82349620144",
+      "Name": "82349620144"
+    },
+    {
+      "CustomFollowCode": "82349620145",
+      "Name": "82349620145"
+    },
+    {
+      "CustomFollowCode": "82349620146",
+      "Name": "82349620146"
+    },
+    {
+      "CustomFollowCode": "82349620147",
+      "Name": "82349620147"
+    },
+    {
+      "CustomFollowCode": "82349620148",
+      "Name": "82349620148"
+    },
+    {
+      "CustomFollowCode": "82349620149",
+      "Name": "82349620149"
+    },
+    {
+      "CustomFollowCode": "82349620150",
+      "Name": "82349620150"
+    },
+    {
+      "CustomFollowCode": "82349620151",
+      "Name": "82349620151"
+    },
+    {
+      "CustomFollowCode": "82349620152",
+      "Name": "82349620152"
+    },
+    {
+      "CustomFollowCode": "82349620153",
+      "Name": "82349620153"
+    },
+    {
+      "CustomFollowCode": "82349620154",
+      "Name": "82349620154"
+    },
+    {
+      "CustomFollowCode": "82349620155",
+      "Name": "82349620155"
+    },
+    {
+      "CustomFollowCode": "82349620156",
+      "Name": "82349620156"
+    },
+    {
+      "CustomFollowCode": "82349620157",
+      "Name": "82349620157"
+    },
+    {
+      "CustomFollowCode": "82349620158",
+      "Name": "82349620158"
+    },
+    {
+      "CustomFollowCode": "82349620159",
+      "Name": "82349620159"
+    },
+    {
+      "CustomFollowCode": "82349620160",
+      "Name": "82349620160"
+    },
+    {
+      "CustomFollowCode": "82349620161",
+      "Name": "82349620161"
+    },
+    {
+      "CustomFollowCode": "82349620162",
+      "Name": "82349620162"
+    },
+    {
+      "CustomFollowCode": "82349620163",
+      "Name": "82349620163"
+    },
+    {
+      "CustomFollowCode": "82349620164",
+      "Name": "82349620164"
+    },
+    {
+      "CustomFollowCode": "82349620165",
+      "Name": "82349620165"
+    },
+    {
+      "CustomFollowCode": "82349620166",
+      "Name": "82349620166"
+    },
+    {
+      "CustomFollowCode": "82349620167",
+      "Name": "82349620167"
+    },
+    {
+      "CustomFollowCode": "82349620168",
+      "Name": "82349620168"
+    },
+    {
+      "CustomFollowCode": "82349620169",
+      "Name": "82349620169"
+    },
+    {
+      "CustomFollowCode": "82349620170",
+      "Name": "82349620170"
+    },
+    {
+      "CustomFollowCode": "82349620171",
+      "Name": "82349620171"
+    },
+    {
+      "CustomFollowCode": "82349620172",
+      "Name": "82349620172"
+    },
+    {
+      "CustomFollowCode": "82349620173",
+      "Name": "82349620173"
+    },
+    {
+      "CustomFollowCode": "82349620174",
+      "Name": "82349620174"
+    },
+    {
+      "CustomFollowCode": "82349620175",
+      "Name": "82349620175"
+    },
+    {
+      "CustomFollowCode": "82349620176",
+      "Name": "82349620176"
+    },
+    {
+      "CustomFollowCode": "82349620177",
+      "Name": "82349620177"
+    },
+    {
+      "CustomFollowCode": "82349620178",
+      "Name": "82349620178"
+    },
+    {
+      "CustomFollowCode": "82349620179",
+      "Name": "82349620179"
+    },
+    {
+      "CustomFollowCode": "82349620180",
+      "Name": "82349620180"
+    },
+    {
+      "CustomFollowCode": "82349620181",
+      "Name": "82349620181"
+    },
+    {
+      "CustomFollowCode": "82349620182",
+      "Name": "82349620182"
+    },
+    {
+      "CustomFollowCode": "82349620183",
+      "Name": "82349620183"
+    },
+    {
+      "CustomFollowCode": "82349620184",
+      "Name": "82349620184"
+    },
+    {
+      "CustomFollowCode": "82349620185",
+      "Name": "82349620185"
+    },
+    {
+      "CustomFollowCode": "82349620186",
+      "Name": "82349620186"
+    },
+    {
+      "CustomFollowCode": "82349620187",
+      "Name": "82349620187"
+    },
+    {
+      "CustomFollowCode": "82349620188",
+      "Name": "82349620188"
+    },
+    {
+      "CustomFollowCode": "82349620189",
+      "Name": "82349620189"
+    },
+    {
+      "CustomFollowCode": "82349620190",
+      "Name": "82349620190"
+    },
+    {
+      "CustomFollowCode": "82349620191",
+      "Name": "82349620191"
+    },
+    {
+      "CustomFollowCode": "82349620192",
+      "Name": "82349620192"
+    },
+    {
+      "CustomFollowCode": "82349620193",
+      "Name": "82349620193"
+    },
+    {
+      "CustomFollowCode": "82349620194",
+      "Name": "82349620194"
+    },
+    {
+      "CustomFollowCode": "82349620195",
+      "Name": "82349620195"
+    },
+    {
+      "CustomFollowCode": "82349620196",
+      "Name": "82349620196"
+    },
+    {
+      "CustomFollowCode": "82349620197",
+      "Name": "82349620197"
+    },
+    {
+      "CustomFollowCode": "82349620198",
+      "Name": "82349620198"
+    },
+    {
+      "CustomFollowCode": "82349620199",
+      "Name": "82349620199"
+    },
+    {
+      "CustomFollowCode": "82349620200",
+      "Name": "82349620200"
+    },
+    {
+      "CustomFollowCode": "82349620201",
+      "Name": "82349620201"
+    },
+    {
+      "CustomFollowCode": "82349620202",
+      "Name": "82349620202"
+    },
+    {
+      "CustomFollowCode": "82349620203",
+      "Name": "82349620203"
+    },
+    {
+      "CustomFollowCode": "82349620204",
+      "Name": "82349620204"
+    },
+    {
+      "CustomFollowCode": "82349620205",
+      "Name": "82349620205"
+    },
+    {
+      "CustomFollowCode": "82349620206",
+      "Name": "82349620206"
+    },
+    {
+      "CustomFollowCode": "82349620207",
+      "Name": "82349620207"
+    },
+    {
+      "CustomFollowCode": "82349620208",
+      "Name": "82349620208"
+    },
+    {
+      "CustomFollowCode": "82349620209",
+      "Name": "82349620209"
+    },
+    {
+      "CustomFollowCode": "82349620210",
+      "Name": "82349620210"
+    },
+    {
+      "CustomFollowCode": "82349620211",
+      "Name": "82349620211"
+    },
+    {
+      "CustomFollowCode": "82349620212",
+      "Name": "82349620212"
+    },
+    {
+      "CustomFollowCode": "82349620213",
+      "Name": "82349620213"
+    },
+    {
+      "CustomFollowCode": "82349620214",
+      "Name": "82349620214"
+    },
+    {
+      "CustomFollowCode": "82349620215",
+      "Name": "82349620215"
+    },
+    {
+      "CustomFollowCode": "82349620216",
+      "Name": "82349620216"
+    },
+    {
+      "CustomFollowCode": "82349620217",
+      "Name": "82349620217"
+    },
+    {
+      "CustomFollowCode": "82349620218",
+      "Name": "82349620218"
+    },
+    {
+      "CustomFollowCode": "82349620219",
+      "Name": "82349620219"
+    },
+    {
+      "CustomFollowCode": "82349620220",
+      "Name": "82349620220"
+    },
+    {
+      "CustomFollowCode": "82349620221",
+      "Name": "82349620221"
+    },
+    {
+      "CustomFollowCode": "82349620222",
+      "Name": "82349620222"
+    },
+    {
+      "CustomFollowCode": "82349620223",
+      "Name": "82349620223"
+    },
+    {
+      "CustomFollowCode": "82349620224",
+      "Name": "82349620224"
+    },
+    {
+      "CustomFollowCode": "82349620225",
+      "Name": "82349620225"
+    },
+    {
+      "CustomFollowCode": "82349620226",
+      "Name": "82349620226"
+    },
+    {
+      "CustomFollowCode": "82349620227",
+      "Name": "82349620227"
+    },
+    {
+      "CustomFollowCode": "82349620228",
+      "Name": "82349620228"
+    },
+    {
+      "CustomFollowCode": "82349620229",
+      "Name": "82349620229"
+    },
+    {
+      "CustomFollowCode": "82349620230",
+      "Name": "82349620230"
+    },
+    {
+      "CustomFollowCode": "82349620231",
+      "Name": "82349620231"
+    },
+    {
+      "CustomFollowCode": "82349620232",
+      "Name": "82349620232"
+    },
+    {
+      "CustomFollowCode": "82349620233",
+      "Name": "82349620233"
+    },
+    {
+      "CustomFollowCode": "82349620234",
+      "Name": "82349620234"
+    },
+    {
+      "CustomFollowCode": "82349620235",
+      "Name": "82349620235"
+    },
+    {
+      "CustomFollowCode": "82349620236",
+      "Name": "82349620236"
+    },
+    {
+      "CustomFollowCode": "82349620237",
+      "Name": "82349620237"
+    },
+    {
+      "CustomFollowCode": "82349620238",
+      "Name": "82349620238"
+    },
+    {
+      "CustomFollowCode": "82349620239",
+      "Name": "82349620239"
+    },
+    {
+      "CustomFollowCode": "82349620240",
+      "Name": "82349620240"
+    },
+    {
+      "CustomFollowCode": "82349620241",
+      "Name": "82349620241"
+    },
+    {
+      "CustomFollowCode": "82349620242",
+      "Name": "82349620242"
+    },
+    {
+      "CustomFollowCode": "82349620243",
+      "Name": "82349620243"
+    },
+    {
+      "CustomFollowCode": "82349620244",
+      "Name": "82349620244"
+    },
+    {
+      "CustomFollowCode": "82349620245",
+      "Name": "82349620245"
+    },
+    {
+      "CustomFollowCode": "82349620246",
+      "Name": "82349620246"
+    },
+    {
+      "CustomFollowCode": "82349620247",
+      "Name": "82349620247"
+    },
+    {
+      "CustomFollowCode": "82349620248",
+      "Name": "82349620248"
+    },
+    {
+      "CustomFollowCode": "82349620249",
+      "Name": "82349620249"
+    },
+    {
+      "CustomFollowCode": "82349620250",
+      "Name": "82349620250"
+    },
+    {
+      "CustomFollowCode": "82349620251",
+      "Name": "82349620251"
+    },
+    {
+      "CustomFollowCode": "82349620252",
+      "Name": "82349620252"
+    },
+    {
+      "CustomFollowCode": "82349620253",
+      "Name": "82349620253"
+    },
+    {
+      "CustomFollowCode": "82349620254",
+      "Name": "82349620254"
+    },
+    {
+      "CustomFollowCode": "82349620255",
+      "Name": "82349620255"
+    },
+    {
+      "CustomFollowCode": "82349620256",
+      "Name": "82349620256"
+    },
+    {
+      "CustomFollowCode": "82349620257",
+      "Name": "82349620257"
+    },
+    {
+      "CustomFollowCode": "82349620258",
+      "Name": "82349620258"
+    },
+    {
+      "CustomFollowCode": "82349620259",
+      "Name": "82349620259"
+    },
+    {
+      "CustomFollowCode": "82349620260",
+      "Name": "82349620260"
+    },
+    {
+      "CustomFollowCode": "82349620261",
+      "Name": "82349620261"
+    },
+    {
+      "CustomFollowCode": "82349620262",
+      "Name": "82349620262"
+    },
+    {
+      "CustomFollowCode": "82349620263",
+      "Name": "82349620263"
+    },
+    {
+      "CustomFollowCode": "82349620264",
+      "Name": "82349620264"
+    },
+    {
+      "CustomFollowCode": "82349620265",
+      "Name": "82349620265"
+    },
+    {
+      "CustomFollowCode": "82349620266",
+      "Name": "82349620266"
+    },
+    {
+      "CustomFollowCode": "82349620267",
+      "Name": "82349620267"
+    },
+    {
+      "CustomFollowCode": "82349620268",
+      "Name": "82349620268"
+    },
+    {
+      "CustomFollowCode": "82349620269",
+      "Name": "82349620269"
+    },
+    {
+      "CustomFollowCode": "82349620270",
+      "Name": "82349620270"
+    },
+    {
+      "CustomFollowCode": "82349620271",
+      "Name": "82349620271"
+    },
+    {
+      "CustomFollowCode": "82349620272",
+      "Name": "82349620272"
+    },
+    {
+      "CustomFollowCode": "82349620273",
+      "Name": "82349620273"
+    },
+    {
+      "CustomFollowCode": "82349620274",
+      "Name": "82349620274"
+    },
+    {
+      "CustomFollowCode": "82349620275",
+      "Name": "82349620275"
+    },
+    {
+      "CustomFollowCode": "82349620276",
+      "Name": "82349620276"
+    },
+    {
+      "CustomFollowCode": "82349620277",
+      "Name": "82349620277"
+    },
+    {
+      "CustomFollowCode": "82349620278",
+      "Name": "82349620278"
+    },
+    {
+      "CustomFollowCode": "82349620279",
+      "Name": "82349620279"
+    },
+    {
+      "CustomFollowCode": "82349620280",
+      "Name": "82349620280"
+    },
+    {
+      "CustomFollowCode": "82349620281",
+      "Name": "82349620281"
+    },
+    {
+      "CustomFollowCode": "82349620282",
+      "Name": "82349620282"
+    },
+    {
+      "CustomFollowCode": "82349620283",
+      "Name": "82349620283"
+    },
+    {
+      "CustomFollowCode": "82349620284",
+      "Name": "82349620284"
+    },
+    {
+      "CustomFollowCode": "82349620285",
+      "Name": "82349620285"
+    },
+    {
+      "CustomFollowCode": "82349620286",
+      "Name": "82349620286"
+    },
+    {
+      "CustomFollowCode": "82349620287",
+      "Name": "82349620287"
+    },
+    {
+      "CustomFollowCode": "82349620288",
+      "Name": "82349620288"
+    },
+    {
+      "CustomFollowCode": "82349620289",
+      "Name": "82349620289"
+    },
+    {
+      "CustomFollowCode": "82349620290",
+      "Name": "82349620290"
+    },
+    {
+      "CustomFollowCode": "82349620291",
+      "Name": "82349620291"
+    },
+    {
+      "CustomFollowCode": "82349620292",
+      "Name": "82349620292"
+    },
+    {
+      "CustomFollowCode": "82349620293",
+      "Name": "82349620293"
+    },
+    {
+      "CustomFollowCode": "82349620294",
+      "Name": "82349620294"
+    },
+    {
+      "CustomFollowCode": "82349620295",
+      "Name": "82349620295"
+    },
+    {
+      "CustomFollowCode": "82349620296",
+      "Name": "82349620296"
+    },
+    {
+      "CustomFollowCode": "82349620297",
+      "Name": "82349620297"
+    },
+    {
+      "CustomFollowCode": "82349620298",
+      "Name": "82349620298"
+    },
+    {
+      "CustomFollowCode": "82349620299",
+      "Name": "82349620299"
+    },
+    {
+      "CustomFollowCode": "82349620300",
+      "Name": "82349620300"
+    },
+    {
+      "CustomFollowCode": "82349620301",
+      "Name": "82349620301"
+    },
+    {
+      "CustomFollowCode": "82349620302",
+      "Name": "82349620302"
+    },
+    {
+      "CustomFollowCode": "82349620303",
+      "Name": "82349620303"
+    },
+    {
+      "CustomFollowCode": "82349620304",
+      "Name": "82349620304"
+    },
+    {
+      "CustomFollowCode": "82349620305",
+      "Name": "82349620305"
+    },
+    {
+      "CustomFollowCode": "82349620306",
+      "Name": "82349620306"
+    },
+    {
+      "CustomFollowCode": "82349620307",
+      "Name": "82349620307"
+    },
+    {
+      "CustomFollowCode": "82349620308",
+      "Name": "82349620308"
+    },
+    {
+      "CustomFollowCode": "82349620309",
+      "Name": "82349620309"
+    },
+    {
+      "CustomFollowCode": "82349620310",
+      "Name": "82349620310"
+    },
+    {
+      "CustomFollowCode": "82349620311",
+      "Name": "82349620311"
+    },
+    {
+      "CustomFollowCode": "82349620312",
+      "Name": "82349620312"
+    },
+    {
+      "CustomFollowCode": "82349620313",
+      "Name": "82349620313"
+    },
+    {
+      "CustomFollowCode": "82349620314",
+      "Name": "82349620314"
+    },
+    {
+      "CustomFollowCode": "82349620315",
+      "Name": "82349620315"
+    },
+    {
+      "CustomFollowCode": "82349620316",
+      "Name": "82349620316"
+    },
+    {
+      "CustomFollowCode": "82349620317",
+      "Name": "82349620317"
+    },
+    {
+      "CustomFollowCode": "82349620318",
+      "Name": "82349620318"
+    },
+    {
+      "CustomFollowCode": "82349620319",
+      "Name": "82349620319"
+    },
+    {
+      "CustomFollowCode": "82349620320",
+      "Name": "82349620320"
+    },
+    {
+      "CustomFollowCode": "82349620321",
+      "Name": "82349620321"
+    },
+    {
+      "CustomFollowCode": "82349620322",
+      "Name": "82349620322"
+    },
+    {
+      "CustomFollowCode": "82349620323",
+      "Name": "82349620323"
+    },
+    {
+      "CustomFollowCode": "82349620324",
+      "Name": "82349620324"
+    },
+    {
+      "CustomFollowCode": "82349620325",
+      "Name": "82349620325"
+    },
+    {
+      "CustomFollowCode": "82349620326",
+      "Name": "82349620326"
+    },
+    {
+      "CustomFollowCode": "82349620327",
+      "Name": "82349620327"
+    },
+    {
+      "CustomFollowCode": "82349620328",
+      "Name": "82349620328"
+    },
+    {
+      "CustomFollowCode": "82349620329",
+      "Name": "82349620329"
+    },
+    {
+      "CustomFollowCode": "82349620330",
+      "Name": "82349620330"
+    },
+    {
+      "CustomFollowCode": "82349620331",
+      "Name": "82349620331"
+    },
+    {
+      "CustomFollowCode": "82349620332",
+      "Name": "82349620332"
+    },
+    {
+      "CustomFollowCode": "82349620333",
+      "Name": "82349620333"
+    },
+    {
+      "CustomFollowCode": "82349620334",
+      "Name": "82349620334"
+    },
+    {
+      "CustomFollowCode": "82349620335",
+      "Name": "82349620335"
+    },
+    {
+      "CustomFollowCode": "82349620336",
+      "Name": "82349620336"
+    },
+    {
+      "CustomFollowCode": "82349620337",
+      "Name": "82349620337"
+    },
+    {
+      "CustomFollowCode": "82349620338",
+      "Name": "82349620338"
+    },
+    {
+      "CustomFollowCode": "82349620339",
+      "Name": "82349620339"
+    },
+    {
+      "CustomFollowCode": "82349620340",
+      "Name": "82349620340"
+    },
+    {
+      "CustomFollowCode": "82349620341",
+      "Name": "82349620341"
+    },
+    {
+      "CustomFollowCode": "82349620342",
+      "Name": "82349620342"
+    },
+    {
+      "CustomFollowCode": "82349620343",
+      "Name": "82349620343"
+    },
+    {
+      "CustomFollowCode": "82349620344",
+      "Name": "82349620344"
+    },
+    {
+      "CustomFollowCode": "82349620345",
+      "Name": "82349620345"
+    },
+    {
+      "CustomFollowCode": "82349620346",
+      "Name": "82349620346"
+    },
+    {
+      "CustomFollowCode": "82349620347",
+      "Name": "82349620347"
+    },
+    {
+      "CustomFollowCode": "82349620348",
+      "Name": "82349620348"
+    },
+    {
+      "CustomFollowCode": "82349620349",
+      "Name": "82349620349"
+    },
+    {
+      "CustomFollowCode": "82349620350",
+      "Name": "82349620350"
+    },
+    {
+      "CustomFollowCode": "82349620351",
+      "Name": "82349620351"
+    },
+    {
+      "CustomFollowCode": "82349620352",
+      "Name": "82349620352"
+    },
+    {
+      "CustomFollowCode": "82349620353",
+      "Name": "82349620353"
+    },
+    {
+      "CustomFollowCode": "82349620354",
+      "Name": "82349620354"
+    },
+    {
+      "CustomFollowCode": "82349620355",
+      "Name": "82349620355"
+    },
+    {
+      "CustomFollowCode": "82349620356",
+      "Name": "82349620356"
+    },
+    {
+      "CustomFollowCode": "82349620357",
+      "Name": "82349620357"
+    },
+    {
+      "CustomFollowCode": "82349620358",
+      "Name": "82349620358"
+    },
+    {
+      "CustomFollowCode": "82349620359",
+      "Name": "82349620359"
+    },
+    {
+      "CustomFollowCode": "82349620360",
+      "Name": "82349620360"
+    },
+    {
+      "CustomFollowCode": "82349620361",
+      "Name": "82349620361"
+    },
+    {
+      "CustomFollowCode": "82349620362",
+      "Name": "82349620362"
+    },
+    {
+      "CustomFollowCode": "82349620363",
+      "Name": "82349620363"
+    },
+    {
+      "CustomFollowCode": "82349620364",
+      "Name": "82349620364"
+    },
+    {
+      "CustomFollowCode": "82349620365",
+      "Name": "82349620365"
+    },
+    {
+      "CustomFollowCode": "82349620366",
+      "Name": "82349620366"
+    },
+    {
+      "CustomFollowCode": "82349620367",
+      "Name": "82349620367"
+    },
+    {
+      "CustomFollowCode": "82349620368",
+      "Name": "82349620368"
+    },
+    {
+      "CustomFollowCode": "82349620369",
+      "Name": "82349620369"
+    },
+    {
+      "CustomFollowCode": "82349620370",
+      "Name": "82349620370"
+    },
+    {
+      "CustomFollowCode": "82349620371",
+      "Name": "82349620371"
+    },
+    {
+      "CustomFollowCode": "82349620372",
+      "Name": "82349620372"
+    },
+    {
+      "CustomFollowCode": "82349620373",
+      "Name": "82349620373"
+    },
+    {
+      "CustomFollowCode": "82349620374",
+      "Name": "82349620374"
+    },
+    {
+      "CustomFollowCode": "82349620375",
+      "Name": "82349620375"
+    },
+    {
+      "CustomFollowCode": "82349620376",
+      "Name": "82349620376"
+    },
+    {
+      "CustomFollowCode": "82349620377",
+      "Name": "82349620377"
+    },
+    {
+      "CustomFollowCode": "82349620378",
+      "Name": "82349620378"
+    },
+    {
+      "CustomFollowCode": "82349620379",
+      "Name": "82349620379"
+    },
+    {
+      "CustomFollowCode": "82349620380",
+      "Name": "82349620380"
+    },
+    {
+      "CustomFollowCode": "82349620381",
+      "Name": "82349620381"
+    },
+    {
+      "CustomFollowCode": "82349620382",
+      "Name": "82349620382"
+    },
+    {
+      "CustomFollowCode": "82349620383",
+      "Name": "82349620383"
+    },
+    {
+      "CustomFollowCode": "82349620384",
+      "Name": "82349620384"
+    },
+    {
+      "CustomFollowCode": "82349620385",
+      "Name": "82349620385"
+    },
+    {
+      "CustomFollowCode": "82349620386",
+      "Name": "82349620386"
+    },
+    {
+      "CustomFollowCode": "82349620387",
+      "Name": "82349620387"
+    },
+    {
+      "CustomFollowCode": "82349620388",
+      "Name": "82349620388"
+    },
+    {
+      "CustomFollowCode": "82349620389",
+      "Name": "82349620389"
+    },
+    {
+      "CustomFollowCode": "82349620390",
+      "Name": "82349620390"
+    },
+    {
+      "CustomFollowCode": "82349620391",
+      "Name": "82349620391"
+    },
+    {
+      "CustomFollowCode": "82349620392",
+      "Name": "82349620392"
+    },
+    {
+      "CustomFollowCode": "82349620393",
+      "Name": "82349620393"
+    },
+    {
+      "CustomFollowCode": "82349620394",
+      "Name": "82349620394"
+    },
+    {
+      "CustomFollowCode": "82349620395",
+      "Name": "82349620395"
+    },
+    {
+      "CustomFollowCode": "82349620396",
+      "Name": "82349620396"
+    },
+    {
+      "CustomFollowCode": "82349620397",
+      "Name": "82349620397"
+    },
+    {
+      "CustomFollowCode": "82349620398",
+      "Name": "82349620398"
+    },
+    {
+      "CustomFollowCode": "82349620399",
+      "Name": "82349620399"
+    },
+    {
+      "CustomFollowCode": "82349620400",
+      "Name": "82349620400"
+    },
+    {
+      "CustomFollowCode": "82349620401",
+      "Name": "82349620401"
+    },
+    {
+      "CustomFollowCode": "82349620402",
+      "Name": "82349620402"
+    },
+    {
+      "CustomFollowCode": "82349620403",
+      "Name": "82349620403"
+    },
+    {
+      "CustomFollowCode": "82349620404",
+      "Name": "82349620404"
+    },
+    {
+      "CustomFollowCode": "82349620405",
+      "Name": "82349620405"
+    },
+    {
+      "CustomFollowCode": "82349620406",
+      "Name": "82349620406"
+    },
+    {
+      "CustomFollowCode": "82349620407",
+      "Name": "82349620407"
+    },
+    {
+      "CustomFollowCode": "82349620408",
+      "Name": "82349620408"
+    },
+    {
+      "CustomFollowCode": "82349620409",
+      "Name": "82349620409"
+    },
+    {
+      "CustomFollowCode": "82349620410",
+      "Name": "82349620410"
+    },
+    {
+      "CustomFollowCode": "82349620411",
+      "Name": "82349620411"
+    },
+    {
+      "CustomFollowCode": "82349620412",
+      "Name": "82349620412"
+    },
+    {
+      "CustomFollowCode": "82349620413",
+      "Name": "82349620413"
+    },
+    {
+      "CustomFollowCode": "82349620414",
+      "Name": "82349620414"
+    },
+    {
+      "CustomFollowCode": "82349620415",
+      "Name": "82349620415"
+    },
+    {
+      "CustomFollowCode": "82349620416",
+      "Name": "82349620416"
+    },
+    {
+      "CustomFollowCode": "82349620417",
+      "Name": "82349620417"
+    },
+    {
+      "CustomFollowCode": "82349620418",
+      "Name": "82349620418"
+    },
+    {
+      "CustomFollowCode": "82349620419",
+      "Name": "82349620419"
+    },
+    {
+      "CustomFollowCode": "82349620420",
+      "Name": "82349620420"
+    },
+    {
+      "CustomFollowCode": "82349620421",
+      "Name": "82349620421"
+    },
+    {
+      "CustomFollowCode": "82349620422",
+      "Name": "82349620422"
+    },
+    {
+      "CustomFollowCode": "82349620423",
+      "Name": "82349620423"
+    },
+    {
+      "CustomFollowCode": "82349620424",
+      "Name": "82349620424"
+    },
+    {
+      "CustomFollowCode": "82349620425",
+      "Name": "82349620425"
+    },
+    {
+      "CustomFollowCode": "82349620426",
+      "Name": "82349620426"
+    },
+    {
+      "CustomFollowCode": "82349620427",
+      "Name": "82349620427"
+    },
+    {
+      "CustomFollowCode": "82349620428",
+      "Name": "82349620428"
+    },
+    {
+      "CustomFollowCode": "82349620429",
+      "Name": "82349620429"
+    },
+    {
+      "CustomFollowCode": "82349620430",
+      "Name": "82349620430"
+    },
+    {
+      "CustomFollowCode": "82349620431",
+      "Name": "82349620431"
+    },
+    {
+      "CustomFollowCode": "82349620432",
+      "Name": "82349620432"
+    },
+    {
+      "CustomFollowCode": "82349620433",
+      "Name": "82349620433"
+    },
+    {
+      "CustomFollowCode": "82349620434",
+      "Name": "82349620434"
+    },
+    {
+      "CustomFollowCode": "82349620435",
+      "Name": "82349620435"
+    },
+    {
+      "CustomFollowCode": "82349620436",
+      "Name": "82349620436"
+    },
+    {
+      "CustomFollowCode": "82349620437",
+      "Name": "82349620437"
+    },
+    {
+      "CustomFollowCode": "82349620438",
+      "Name": "82349620438"
+    },
+    {
+      "CustomFollowCode": "82349620439",
+      "Name": "82349620439"
+    },
+    {
+      "CustomFollowCode": "82349620440",
+      "Name": "82349620440"
+    },
+    {
+      "CustomFollowCode": "82349620441",
+      "Name": "82349620441"
+    },
+    {
+      "CustomFollowCode": "82349620442",
+      "Name": "82349620442"
+    },
+    {
+      "CustomFollowCode": "82349620443",
+      "Name": "82349620443"
+    },
+    {
+      "CustomFollowCode": "82349620444",
+      "Name": "82349620444"
+    },
+    {
+      "CustomFollowCode": "82349620445",
+      "Name": "82349620445"
+    },
+    {
+      "CustomFollowCode": "82349620446",
+      "Name": "82349620446"
+    },
+    {
+      "CustomFollowCode": "82349620447",
+      "Name": "82349620447"
+    },
+    {
+      "CustomFollowCode": "82349620448",
+      "Name": "82349620448"
+    },
+    {
+      "CustomFollowCode": "82349620449",
+      "Name": "82349620449"
+    },
+    {
+      "CustomFollowCode": "82349620450",
+      "Name": "82349620450"
+    },
+    {
+      "CustomFollowCode": "82349620451",
+      "Name": "82349620451"
+    },
+    {
+      "CustomFollowCode": "82349620452",
+      "Name": "82349620452"
+    },
+    {
+      "CustomFollowCode": "82349620453",
+      "Name": "82349620453"
+    },
+    {
+      "CustomFollowCode": "82349620454",
+      "Name": "82349620454"
+    },
+    {
+      "CustomFollowCode": "82349620455",
+      "Name": "82349620455"
+    },
+    {
+      "CustomFollowCode": "82349620456",
+      "Name": "82349620456"
+    },
+    {
+      "CustomFollowCode": "82349620457",
+      "Name": "82349620457"
+    },
+    {
+      "CustomFollowCode": "82349620458",
+      "Name": "82349620458"
+    },
+    {
+      "CustomFollowCode": "82349620459",
+      "Name": "82349620459"
+    },
+    {
+      "CustomFollowCode": "82349620460",
+      "Name": "82349620460"
+    },
+    {
+      "CustomFollowCode": "82349620461",
+      "Name": "82349620461"
+    },
+    {
+      "CustomFollowCode": "82349620462",
+      "Name": "82349620462"
+    },
+    {
+      "CustomFollowCode": "82349620463",
+      "Name": "82349620463"
+    },
+    {
+      "CustomFollowCode": "82349620464",
+      "Name": "82349620464"
+    },
+    {
+      "CustomFollowCode": "82349620465",
+      "Name": "82349620465"
+    },
+    {
+      "CustomFollowCode": "82349620466",
+      "Name": "82349620466"
+    },
+    {
+      "CustomFollowCode": "82349620467",
+      "Name": "82349620467"
+    },
+    {
+      "CustomFollowCode": "82349620468",
+      "Name": "82349620468"
+    },
+    {
+      "CustomFollowCode": "82349620469",
+      "Name": "82349620469"
+    },
+    {
+      "CustomFollowCode": "82349620470",
+      "Name": "82349620470"
+    },
+    {
+      "CustomFollowCode": "82349620471",
+      "Name": "82349620471"
+    },
+    {
+      "CustomFollowCode": "82349620472",
+      "Name": "82349620472"
+    },
+    {
+      "CustomFollowCode": "82349620473",
+      "Name": "82349620473"
+    },
+    {
+      "CustomFollowCode": "82349620474",
+      "Name": "82349620474"
+    },
+    {
+      "CustomFollowCode": "82349620475",
+      "Name": "82349620475"
+    },
+    {
+      "CustomFollowCode": "82349620476",
+      "Name": "82349620476"
+    },
+    {
+      "CustomFollowCode": "82349620477",
+      "Name": "82349620477"
+    },
+    {
+      "CustomFollowCode": "82349620478",
+      "Name": "82349620478"
+    },
+    {
+      "CustomFollowCode": "82349620479",
+      "Name": "82349620479"
+    },
+    {
+      "CustomFollowCode": "82349620480",
+      "Name": "82349620480"
+    },
+    {
+      "CustomFollowCode": "82349620481",
+      "Name": "82349620481"
+    },
+    {
+      "CustomFollowCode": "82349620482",
+      "Name": "82349620482"
+    },
+    {
+      "CustomFollowCode": "82349620483",
+      "Name": "82349620483"
+    },
+    {
+      "CustomFollowCode": "82349620484",
+      "Name": "82349620484"
+    },
+    {
+      "CustomFollowCode": "82349620485",
+      "Name": "82349620485"
+    },
+    {
+      "CustomFollowCode": "82349620486",
+      "Name": "82349620486"
+    },
+    {
+      "CustomFollowCode": "82349620487",
+      "Name": "82349620487"
+    },
+    {
+      "CustomFollowCode": "82349620488",
+      "Name": "82349620488"
+    },
+    {
+      "CustomFollowCode": "82349620489",
+      "Name": "82349620489"
+    },
+    {
+      "CustomFollowCode": "82349620490",
+      "Name": "82349620490"
+    },
+    {
+      "CustomFollowCode": "82349620491",
+      "Name": "82349620491"
+    },
+    {
+      "CustomFollowCode": "82349620492",
+      "Name": "82349620492"
+    },
+    {
+      "CustomFollowCode": "82349620493",
+      "Name": "82349620493"
+    },
+    {
+      "CustomFollowCode": "82349620494",
+      "Name": "82349620494"
+    },
+    {
+      "CustomFollowCode": "82349620495",
+      "Name": "82349620495"
+    },
+    {
+      "CustomFollowCode": "82349620496",
+      "Name": "82349620496"
+    },
+    {
+      "CustomFollowCode": "82349620497",
+      "Name": "82349620497"
+    },
+    {
+      "CustomFollowCode": "82349620498",
+      "Name": "82349620498"
+    },
+    {
+      "CustomFollowCode": "82349620499",
+      "Name": "82349620499"
+    },
+    {
+      "CustomFollowCode": "82349620500",
+      "Name": "82349620500"
+    }
+  ]
+}

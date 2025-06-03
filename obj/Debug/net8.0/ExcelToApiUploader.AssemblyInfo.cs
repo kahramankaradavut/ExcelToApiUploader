@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExcelToApiUploader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7120885420df7bbf6daf0eae7bbc4b58091834f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d860ed4311d314ee98fe3702d60b58d2c9c7104")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExcelToApiUploader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExcelToApiUploader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

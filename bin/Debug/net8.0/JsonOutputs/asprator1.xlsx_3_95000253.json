@@ -1,0 +1,123 @@
+{
+  "ProductCode": "95000253",
+  "FirmID": "13",
+  "Name": "TECNA 8961 SIYAH 60 CM SÜRGÜLÜ ASPIRATÖR",
+  "ShortCode": "B01",
+  "ProductTypeName": "ASPIRATOR",
+  "ProductModelName": "TECNA 8961 SIYAH 60 CM SÜRGÜLÜ ASPIRATÖR",
+  "SpartsProducts": [
+    {
+      "ManufactureCode": "10",
+      "ProductTypeName": "CHIMNEY NRV OUTLET 120 MM",
+      "ProductCode": "85000016",
+      "ShortCode": "10",
+      "Name": "CHIMNEY NRV OUTLET 120 MM"
+    },
+    {
+      "ManufactureCode": "20",
+      "ProductTypeName": "CYRISTAL LAMP GLASS",
+      "ProductCode": "85000017",
+      "ShortCode": "20",
+      "Name": "CYRISTAL LAMP GLASS"
+    },
+    {
+      "ManufactureCode": "30",
+      "ProductTypeName": "ENGINE AND PROPELLER ASSEMBLY WITH 20 MM SQUARE MOTOR AND 32 CM CABLE",
+      "ProductCode": "85000018",
+      "ShortCode": "30",
+      "Name": "ENGINE AND PROPELLER ASSEMBLY WITH 20 MM SQUARE MOTOR AND 32 CM CABLE"
+    },
+    {
+      "ManufactureCode": "40",
+      "ProductTypeName": "8052 60 BUTTON GROUP BLACK",
+      "ProductCode": "85000019",
+      "ShortCode": "40",
+      "Name": "8052 60 BUTTON GROUP BLACK"
+    },
+    {
+      "ManufactureCode": "50",
+      "ProductTypeName": "SWITCH-BOX WITH CABLE 49 CM",
+      "ProductCode": "85000020",
+      "ShortCode": "50",
+      "Name": "SWITCH-BOX WITH CABLE 49 CM"
+    },
+    {
+      "ManufactureCode": "60",
+      "ProductTypeName": "8052 60 FRONT PANEL WHITE",
+      "ProductCode": "85000021",
+      "ShortCode": "60",
+      "Name": "8052 60 FRONT PANEL WHITE"
+    },
+    {
+      "ManufactureCode": "70",
+      "ProductTypeName": "8052 60 TECNA BOX 64CMx21CMx35.5CM ",
+      "ProductCode": "85000022",
+      "ShortCode": "70",
+      "Name": "8052 60 TECNA BOX 64CMx21CMx35.5CM "
+    },
+    {
+      "ManufactureCode": "80",
+      "ProductTypeName": "CABLE CLAMP",
+      "ProductCode": "85000023",
+      "ShortCode": "80",
+      "Name": "CABLE CLAMP"
+    },
+    {
+      "ManufactureCode": "90",
+      "ProductTypeName": "DOUBLE CASE JUNCTION COVER",
+      "ProductCode": "85000024",
+      "ShortCode": "90",
+      "Name": "DOUBLE CASE JUNCTION COVER"
+    },
+    {
+      "ManufactureCode": "100",
+      "ProductTypeName": "SINGLE LAMP HOLDER WITH CABLE  27CM",
+      "ProductCode": "85000025",
+      "ShortCode": "100",
+      "Name": "SINGLE LAMP HOLDER WITH CABLE  27CM"
+    },
+    {
+      "ManufactureCode": "110",
+      "ProductTypeName": "2x0,75 PLUG CABLE",
+      "ProductCode": "85000026",
+      "ShortCode": "110",
+      "Name": "2x0,75 PLUG CABLE"
+    },
+    {
+      "ManufactureCode": "120",
+      "ProductTypeName": "TERMINAL BLOCK (7)",
+      "ProductCode": "85000027",
+      "ShortCode": "120",
+      "Name": "TERMINAL BLOCK (7)"
+    },
+    {
+      "ManufactureCode": "130",
+      "ProductTypeName": "4 W LED LAMP",
+      "ProductCode": "85000028",
+      "ShortCode": "130",
+      "Name": "4 W LED LAMP"
+    },
+    {
+      "ManufactureCode": "140",
+      "ProductTypeName": "SHORT RAIL 17MMx180MM",
+      "ProductCode": "85000029",
+      "ShortCode": "140",
+      "Name": "SHORT RAIL 17MMx180MM"
+    },
+    {
+      "ManufactureCode": "150",
+      "ProductTypeName": "8052 60 YENİ 148.5x483x8MMxRF FILTER",
+      "ProductCode": "85000030",
+      "ShortCode": "150",
+      "Name": "8052 60 YENİ 148.5x483x8MMxRF FILTER"
+    },
+    {
+      "ManufactureCode": "160",
+      "ProductTypeName": "8052 60 188.5MMx483.0MMxRF FILTER ",
+      "ProductCode": "85000031",
+      "ShortCode": "160",
+      "Name": "8052 60 188.5MMx483.0MMxRF FILTER "
+    }
+  ],
+  "ProductSerials": []
+}
